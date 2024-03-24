@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 5em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#grid {
+    width: 50vw;
+    height: 50vw;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    text-align: center;
+    font-size: 100px;
+}
+
+p {
+    transition: transform 1s;
+}
+
+p:hover {
+    transform: rotate(360deg);
+    animation-fill-mode: forwards;
+    animation-play-state: paused;
+}
+
+p:hover::after {
+    animation: spin 1s linear forwards;
+    animation-play-state: running;
+}
+
+@keyframes spin {
+    100% {
+        transform: rotate(360deg);
+    }
+}
