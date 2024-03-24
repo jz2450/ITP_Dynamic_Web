@@ -11,7 +11,8 @@ This repository contains all the homework assignments for Dynamic Web Developmen
 
 ## Assignment 1
 
-Description of the first assignment goes here.
+Your task this week is to code a "simple" website using HTML and CSS. The goal of this assignment is to begin your practice of the web development and deployment process. 
+[Link to Assignment](https://github.com/jz2450/ITP_Dynamic_Web/tree/main/assignment-1)
 
 ## Assignment 2
 
