@@ -8,7 +8,7 @@
 
 OR
 
-1. Visit `enter glitch url here`
+1. Visit `https://itpdynamicwebdev.glitch.me/assignment-1/`
 
 ## HTML Page
 
