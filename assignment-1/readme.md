@@ -8,7 +8,7 @@
 
 OR
 
-1. Visit `https://cypress-bloom-wisteria.glitch.me/assignment-1/`
+1. Visit [Glitch](https://cypress-bloom-wisteria.glitch.me/assignment-1/)
 
 ## HTML Page
 
