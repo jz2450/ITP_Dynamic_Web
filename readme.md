@@ -16,7 +16,8 @@ Your task this week is to code a "simple" website using HTML and CSS. The goal o
 
 ## Assignment 2
 
-Description of the second assignment goes here.
+Your assignment this week is to **design** and **develop** a website about New York using a strong grid drawn from [Swiss Poster Design examples](https://duckduckgo.com/?q=swiss+poster+design&t=ffab&iax=images&ia=images). 
+[Link to Assignment](https://github.com/jz2450/ITP_Dynamic_Web/tree/main/assignment-2)
 
 ## Assignment 3
 
