@@ -21,7 +21,8 @@ Your assignment this week is to **design** and **develop** a website about New Y
 
 ## Assignment 3
 
-Description of the third assignment goes here.
+This week, the assignment is to created a dynamic front end web application.
+[Link to Assignment](https://github.com/jz2450/ITP_Dynamic_Web/tree/main/assignment-3)
 
 ## Assignment 4
 

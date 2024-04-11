@@ -8,7 +8,7 @@
 
 OR
 
-1. Visit [Glitch](https://equable-obvious-cardinal.glitch.me/assignment-2/)
+1. Visit [Glitch](https://clover-star-cone.glitch.me/assignment-3/)
 
 ## Sketching, Wireframes, and Design
 
