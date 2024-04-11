@@ -1,4 +1,4 @@
-# Assignment 2: GENRE MAKER
+# Assignment 3: APIs
 
 ## Setup and Run
 
