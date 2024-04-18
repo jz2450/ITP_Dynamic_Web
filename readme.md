@@ -26,7 +26,8 @@ This week, the assignment is to created a dynamic front end web application.
 
 ## Assignment 4
 
-Description of the fourth assignment goes here.
+This week your assignment is to leap into the world of server-side programming with Node.js/Express.js.
+[Link to Assignment](https://github.com/jz2450/ITP_Dynamic_Web/tree/main/assignment-4)
 
 ## Assignment 5
 
